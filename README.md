@@ -1,0 +1,1 @@
+This Application is an interactive quiz platform designed to test and enhance knowledge across various subjects. The application features a timer, ensuring a challenging yet engaging experience as users answer questions under time constraints.
